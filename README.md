@@ -35,6 +35,6 @@ If you want to run or modify this code on your local machine:
 
 ## 👤 Author
 **Delinda Mega Putri**
-- 🎓 Teknik Informatika, Universitas Muhammadiyah Sukabumi
+- 🎓 Informatics Engineering, Universitas Muhammadiyah Sukabumi
 - 💼 [LinkedIn](https://www.linkedin.com/in/dlnmgp)
 - 📧 Email: delindamegaputri123@gmail.com
